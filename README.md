@@ -82,7 +82,7 @@ A practical workflow:
 Flow Launcher reference: [DialogJump.cs](Flow.Launcher.Infrastructure/DialogJump/DialogJump.cs) coordinates its separate dialog navigation feature.
 The [IDialogJump.cs](Flow.Launcher.Plugin/Interfaces/IDialogJump.cs) interface describes a related extension contract in that project.
 
-![Listary Quick Switch suggesting a working folder beneath a Windows save dialog](Scripts/pp1.jpeg)
+![Listary Quick Switch suggesting a working folder beneath a Windows save dialog](Scripts/pp2.jpeg)
 
 ## Hotkeys
 
